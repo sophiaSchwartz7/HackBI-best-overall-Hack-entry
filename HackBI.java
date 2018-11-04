@@ -131,19 +131,10 @@ public class HackBI
                System.out.println("I had to buy (a) new " + clothing + ".");
             
             
-            
+          } 
+         
+        }
+      
+    }
 
-         
-         
-         
-         } 
-         
-                     }
-            
-               
-      
-       
-      
-            
-                                }
-            }
+}
